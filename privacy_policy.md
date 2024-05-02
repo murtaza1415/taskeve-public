@@ -19,5 +19,5 @@ We use Firebase to provide a backend for Taskeve. This backend is essential to e
 We want to make sure that You have the final authority regarding Your data. So we offer You multiple options if You decide to delete Your data. You can find the details in this [article](https://github.com/murtaza1415/taskeve_public/blob/main/data_deletion.md).  
   
 ---
-**Article Updated:** 02 May, 2024
+**Article Updated:** 02 May, 2024  
 **For Queries:** murtazamail15@gmail.com
