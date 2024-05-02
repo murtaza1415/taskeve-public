@@ -4,6 +4,7 @@ Welcome to the Taskeve app. In order to ensure functionality of the app and to o
 Following is a list of all the permissions that the Taskeve app requires to function on Your device, along with their purposes:
 1) **Internet Access:** Since Taskeve is an online app, it requires access to the internet so that it can communicate with the backend servers, for data retrieval and storage.
 2) **Notifications:** For users on the Premium Plan, the app has a feature to set reminders for tasks.
+3) **Google Play Billing:** This permission is required by Google Play's Billing API, and it is used to purchase and subscribe to the Premium Plan.
 ### Stored Data Types:
 Following is a list of all the data items that are collected from the app and stored on the backend servers. We have also mentioned the purpose of storing each of these items:
 1) **Email Address:** We store Your email address because it is essential to create and manage Your account.
