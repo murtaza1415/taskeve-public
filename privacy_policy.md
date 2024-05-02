@@ -2,9 +2,8 @@
 Welcome to the Taskeve app. In order to ensure functionality of the app and to offer a smooth user experience, we have to collect some data from the app and store it on the backend servers. In addition, we require some device permissions when You install the app on Your Android phone. Continue reading below for our detailed privacy policy. 
 ### App Permissions (Android Device):
 Following is a list of all the permissions that the Taskeve app requires to function on Your device, along with their purposes:
-1) **Internet Access:** The app requires access to the internet so that it can communicate with the backend servers, for data retrieval and storage.
-2) **Notifications:** The app has a feature to send You push notifications on the due date of a Task. You can enable or disable this feature from the Settings.
-### Stored Data Types:
+1) **Internet Access:** Since Taskeve is an online app, it requires access to the internet so that it can communicate with the backend servers, for data retrieval and storage.
+2) **Notifications:** For users on the Premium Plan, the app has a feature to set reminders for tasks.
 Following is a list of all the data items that are collected from the app and stored on the backend servers. We have also mentioned the purpose of storing each of these items:
 1) **Email Address:** We store Your email address because it is essential to create and manage Your account.
 2) **User ID:** We store Your User ID because it is essential to create and manage Your account.
