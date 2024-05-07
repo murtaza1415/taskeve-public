@@ -11,7 +11,7 @@ Following is a list of all the data items that are collected from the app and st
 2) **User ID:** We store Your User ID because it is essential to create and manage Your account.
 3) **Name:** We store Your Name because it is essential to create and manage Your account.
 4) **Date of Birth:** We store your date of birth to offer age-relevant services and features.
-5) **App content:** Content that You create on the app, which includes Your To-Do Lists and Tasks data, also needs to be stored. This is required so that You can retrieve and sync Your data across multiple devices.
+5) **Tasks and Lists:** Your To-Do Lists and Tasks data, needs to be stored on our servers. This is required so that You can retrieve and sync Your data across multiple devices. This data is not available to anyone except you.
 6) **Purchase History:** If You have subscribed to the Premium plan of Taskeve, Your 1) Order Number,  2) Purchase Date, 3) Expiry Date, 4) Subscription Status are collected and stored on the backend servers. This does NOT include any sensitive information, like bank or credit card details. And the sole purpose of storing this information is to prevent fraud and enable Premium features on the app.
 7) **Firebase Installation ID:** In order to send You push notifications when a task is due, we need to uniquely identify Your App Installation with an ID. For this purpose, we collect and store Your Firebase Installation ID.
 ### Where is the Data Stored (Service Providers):
